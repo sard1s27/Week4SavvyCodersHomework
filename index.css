@@ -1,0 +1,28 @@
+body{
+  background-color: rgb(183, 209, 243);
+}
+
+h1, h3, #mypage{
+  font-weight: bold;
+  font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+  color: rgb(212, 127, 127);
+}
+
+li.no-bullets {
+  list-style-type: none;
+  margin: 0;
+  padding: 0;
+}
+
+p {
+  padding-top: 5px;
+  padding-right: 10px;
+  padding-bottom: 5px;
+  padding-left: 10px;
+}
+
+.location {
+  padding-right: 100px;
+  padding-left: 50px;
+}
+
